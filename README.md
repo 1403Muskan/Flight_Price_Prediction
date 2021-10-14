@@ -6,6 +6,7 @@
   * [Installation](#installation)
   * [Deployement on Heroku](#deployement-on-heroku)
   * [Directory Tree](#directory-tree)
+  * [Technologies Used](#technologies-used)
 
 
 ## Demo
