@@ -34,6 +34,9 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Directory Tree
 ```
+├── Images
+│   ├── Flowchart.png
+│   ├── Screenshots(1-6)
 ├── static 
 │   ├── css
 │   ├── photo.jpg
@@ -46,4 +49,3 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── flight_rf.pkl
 ├── requirements.txt
 ```
-
